@@ -13,7 +13,7 @@ class App extends Component {
         </header>
         <p className="App-intro">
           To!! get started, edit <code>src/App.js</code> and save to reload.
-          <Welcome text="hejsan!" toggle={true} />
+          <Welcome text="hejsan!!" toggle={true} />
         </p>
       </div>
     );
